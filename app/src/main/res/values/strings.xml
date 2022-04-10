@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">speedmeter</string>
+    <string name="app_name">speedometer</string>
+    <string name="board_description">main board</string>
+    <string name="arrow">arrow</string>
+    <string name="_0">0</string>
+    <string name="_20">20</string>
+    <string name="_40">40</string>
+    <string name="_60">60</string>
+    <string name="_80">80</string>
+    <string name="_100">100</string>
+    <string name="_120">120</string>
+    <string name="_140">140</string>
+    <string name="_160">160</string>
+    <string name="_180">180</string>
+    <string name="speed_text">%d KM</string>
 </resources>
